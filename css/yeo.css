@@ -109,8 +109,10 @@ background-image: linear-gradient(134deg, #0e2654 0%, #000000 70%);
 
 
 .slogan-img {
-    max-width: 100%;
+    max-width: 90%;
     margin-top: -75px;
+    width: 350px;
+    position: relative ; top: 0px; right: -110px; 
 }
 
 .yeo-header {
@@ -281,7 +283,7 @@ background-image: linear-gradient(134deg, #0e2654 0%, #000000 70%);
 
 
 .yeo-team img {
-    max-width: 250px;
+    max-width: 400px;
 }
 
 .yeo-team .s-circle {
@@ -303,7 +305,7 @@ background-image: linear-gradient(134deg, #0e2654 0%, #000000 70%);
 }
 
 .yeo-do img {
-    max-height: 80px;
+    max-height: 120px;
 }
 
 .yeo-do h3 {
